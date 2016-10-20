@@ -17,7 +17,7 @@
 }
 /*     General overwrite     */
 a{
-    color: #FF3B30
+    color: red
 }
 a:hover, a:focus {
     color: #109CFF;
@@ -143,8 +143,8 @@ h1 .subtitle{
     border-color: #3472F7;
 }
 .btn-info{
-     color: #FF3B30
-    border-color: #FF3B30
+     color: red
+    border-color: red
 }
 .btn-success{
     color: #05AE0E;
@@ -155,8 +155,8 @@ h1 .subtitle{
     border-color: #FF9500;
 }
 .btn-danger{
-    color: #FF3B30;
-    border-color: #FF3B30;
+    color: red;
+    border-color: red;
 }
 .btn:hover{
     background-color: rgba(0,0,0,.0);
@@ -206,7 +206,7 @@ h1 .subtitle{
 }
 .btn-info.disabled, .btn-info[disabled], fieldset[disabled] .btn-info, .btn-info.disabled:hover, .btn-info[disabled]:hover, fieldset[disabled] .btn-info:hover, .btn-info.disabled:focus, .btn-info[disabled]:focus, fieldset[disabled] .btn-info:focus, .btn-info.disabled:active, .btn-info[disabled]:active, fieldset[disabled] .btn-info:active, .btn-info.disabled.active, .btn-info.active[disabled], fieldset[disabled] .btn-info.active {
     background-color: rgba(0, 0, 0, 0);
-    border-color: #FF3B30
+    border-color: red
 }
 .btn-success.disabled, .btn-success[disabled], fieldset[disabled] .btn-success, .btn-success.disabled:hover, .btn-success[disabled]:hover, fieldset[disabled] .btn-success:hover, .btn-success.disabled:focus, .btn-success[disabled]:focus, fieldset[disabled] .btn-success:focus, .btn-success.disabled:active, .btn-success[disabled]:active, fieldset[disabled] .btn-success:active, .btn-success.disabled.active, .btn-success.active[disabled], fieldset[disabled] .btn-success.active {
     background-color: rgba(0, 0, 0, 0);
@@ -214,7 +214,7 @@ h1 .subtitle{
 }
 .btn-danger.disabled, .btn-danger[disabled], fieldset[disabled] .btn-danger, .btn-danger.disabled:hover, .btn-danger[disabled]:hover, fieldset[disabled] .btn-danger:hover, .btn-danger.disabled:focus, .btn-danger[disabled]:focus, fieldset[disabled] .btn-danger:focus, .btn-danger.disabled:active, .btn-danger[disabled]:active, fieldset[disabled] .btn-danger:active, .btn-danger.disabled.active, .btn-danger.active[disabled], fieldset[disabled] .btn-danger.active {
     background-color: rgba(0, 0, 0, 0);
-    border-color: #FF3B30;
+    border-color: red;
 }
 .btn-warning.disabled, .btn-warning[disabled], fieldset[disabled] .btn-warning, .btn-warning.disabled:hover, .btn-warning[disabled]:hover, fieldset[disabled] .btn-warning:hover, .btn-warning.disabled:focus, .btn-warning[disabled]:focus, fieldset[disabled] .btn-warning:focus, .btn-warning.disabled:active, .btn-warning[disabled]:active, fieldset[disabled] .btn-warning:active, .btn-warning.disabled.active, .btn-warning.active[disabled], fieldset[disabled] .btn-warning.active {
     background-color: rgba(0, 0, 0, 0);
@@ -239,8 +239,8 @@ h1 .subtitle{
     border-color: #3472F7;
 }
 .btn-info.btn-fill{
-    background-color: #FF3B30
-    border-color: #FF3B30
+    background-color: red
+    border-color: red
 }
 .btn-success.btn-fill{
     background-color: #05AE0E;
@@ -251,8 +251,8 @@ h1 .subtitle{
    border-color: #FF9500;
 }
 .btn-danger.btn-fill{
-    background-color: #FF3B30;
-    border-color: #FF3B30;
+    background-color: red;
+    border-color: red;
 }
 .btn-default.btn-fill:hover, .btn-default.btn-fill:focus, .btn-default.btn-fill:active, .btn-default.btn-fill.active, .open .dropdown-toggle.btn-fill.btn-default {
     background-color: #888888;
@@ -352,8 +352,8 @@ h1 .subtitle{
 .has-error .form-control, 
 .has-error .form-control-feedback,
 .form-control.error{
-    color: #FF3B30;
-    border-color: #FF3B30;
+    color: red;
+    border-color: red;
 }
 
 .input-group-addon {
@@ -395,8 +395,8 @@ h1 .subtitle{
     color: #3472F7;
 }
 .label-info{
-    border-color: #FF3B30
-    color: #FF3B30
+    border-color: red
+    color: red
 }
 .label-success{
     border-color: #05AE0E;
@@ -407,12 +407,12 @@ h1 .subtitle{
     color: #FF9500;
 }
 .label-danger{
-    border-color: #FF3B30;
-    color: #FF3B30;
+    border-color: red;
+    color: red;
 }
 
 label.error{
-    color: #FF3B30;    
+    color: red;    
     margin-top: 5px;
     margin-bottom: 0;
 
@@ -429,7 +429,7 @@ label small{
    background-color: #3472F7;
 }
 .label-info.label-fill, .progress-bar-info{
-    background-color: #FF3B30
+    background-color: red
 }
 .label-success.label-fill, .progress-bar-success{
    background-color: #05AE0E;
@@ -438,7 +438,7 @@ label small{
    background-color: #FF9500;
 }
 .label-danger.label-fill, .progress-bar-danger{
-   background-color: #FF3B30;
+   background-color: red;
 }
 .label-default.label-fill{
    background-color: #999999;
@@ -459,9 +459,9 @@ label small{
     margin-left: 0;
 }
 .nav-pills > li > a {
-    border: 1px solid #FF3B30
+    border: 1px solid red
     border-radius: 0;
-    color: #FF3B30
+    color: red
     margin-left: -1px;
 }
 .nav > li > a:hover, .nav > li > a:focus {
@@ -471,7 +471,7 @@ label small{
    background-color: #3472F7;
 }
 .nav-pills.ct-azure > li.active > a, .nav-pills.ct-azure > li.active > a:hover, .nav-pills.ct-azure > li.active > a:focus, .pagination.ct-azure > .active > a, .pagination.ct-azure > .active > span, .pagination.ct-azure > .active > a:hover, .pagination.ct-azure > .active > span:hover, .pagination.ct-azure > .active > a:focus, .pagination.ct-azure > .active > span:focus{
-    background-color: #FF3B30
+    background-color: red
 }
 .nav-pills.ct-green > li.active > a, .nav-pills.ct-green > li.active > a:hover, .nav-pills.ct-green > li.active > a:focus, .pagination.ct-green > .active > a, .pagination.ct-green > .active > span, .pagination.ct-green > .active > a:hover, .pagination.ct-green > .active > span:hover, .pagination.ct-green > .active > a:focus, .pagination.ct-green > .active > span:focus{
    background-color: #05AE0E;
@@ -480,15 +480,15 @@ label small{
    background-color: #FF9500;
 }
 .nav-pills.ct-red > li.active > a, .nav-pills.ct-red > li.active > a:hover, .nav-pills.ct-red > li.active > a:focus, .pagination.ct-red > .active > a, .pagination.ct-red > .active > span, .pagination.ct-red > .active > a:hover, .pagination.ct-red > .active > span:hover, .pagination.ct-red > .active > a:focus, .pagination.ct-red > .active > span:focus{
-   background-color: #FF3B30;
+   background-color: red;
 }
 .nav-pills.ct-blue > li > a {
     border: 1px solid #3472F7;
     color: #3472F7;
 }
 .nav-pills.ct-azure > li > a {
-    border: 1px solid #FF3B30
-    color: #FF3B30
+    border: 1px solid red
+    color: red
 }
 .nav-pills.ct-green > li > a {
     border: 1px solid #05AE0E;
@@ -499,14 +499,14 @@ label small{
     color: #FF9500;
 }
 .nav-pills.ct-red > li > a {
-    border: 1px solid #FF3B30;
-    color: #FF3B30;
+    border: 1px solid red;
+    color: red;
 }
 
 .nav-pills > li.active > a, 
 .nav-pills > li.active > a:hover, 
 .nav-pills > li.active > a:focus {
-    background-color: #FF3B30
+    background-color: red
     color: #FFFFFF;
 }
 
@@ -527,7 +527,7 @@ label small{
     color: #777777;
 }
 .pagination > li.active > a, .pagination > li.active > span, .pagination > li.active > a:hover, .pagination > li.active > span:hover, .pagination > li.active > a:focus, .pagination > li.active > span:focus {
-    background-color: #FF3B30
+    background-color: red
     border: 0;
     color: #FFFFFF;
     padding: 7px 13px;
@@ -748,10 +748,10 @@ label{
     -webkit-transition: all 0.2s;
 }
 .wizard-card .picture:hover{
-    border-color: #FF3B30
+    border-color: red
 }
 .wizard-card.ct-wizard-azzure .picture:hover{
-    border-color: #FF3B30
+    border-color: red
 }
 .wizard-card.ct-wizard-green .picture:hover{
     border-color: #05ae0e;
@@ -763,7 +763,7 @@ label{
     border-color: #ff9500;
 }
 .wizard-card.ct-wizard-red .picture:hover{
-    border-color: #ff3b30;
+    border-color: red;
 }
 .wizard-card .picture input[type="file"] {
     cursor: pointer;
@@ -811,7 +811,7 @@ label{
     background-color: #05ae0e;
 }
 .wizard-card.ct-wizard-azzure .nav-pills > li.active a{
-    background-color: #FF3B30
+    background-color: red
 }
 .wizard-card.ct-wizard-blue .nav-pills > li.active a{
     background-color: #3472f7;
@@ -820,7 +820,7 @@ label{
     background-color: #ff9500;
 }
 .wizard-card.ct-wizard-red .nav-pills > li.active a{
-    background-color: #ff3b30;
+    background-color: red;
 }
 
 .wizard-card .nav-pills > li > a:hover, .wizard-card .nav-pills > li > a:focus{
@@ -866,11 +866,11 @@ label{
 }
 
 .wizard-card .choice:hover .icon, .wizard-card .choice.active .icon{
-    border-color: #FF3B30
+    border-color: red;
 }
 
 .wizard-card.ct-wizard-azzure .choice:hover .icon, .wizard-card.ct-wizard-azzure .choice.active .icon{
-    border-color: #FF3B30
+    border-color: red;
 }
 .wizard-card.ct-wizard-blue .choice:hover .icon, .wizard-card.ct-wizard-blue .choice.active .icon{
     border-color: #3472f7;
@@ -882,7 +882,7 @@ label{
     border-color: #ff9500;
 }
 .wizard-card.ct-wizard-red .choice:hover .icon, .wizard-card.ct-wizard-red .choice.active .icon{
-    border-color: #ff3b30;
+    border-color: red;
 }
 
 .wizard-card .choice input[type="radio"],
@@ -916,7 +916,7 @@ label{
     color: #FFFFFF;
 }
 .footer .heart{
-    color: #FF3B30;
+    color: red;
 }
 
 @media (max-width:768px){
